@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Püskürtme Şişesi",
+    "price": "₺150,00",
+    "image": "/products/product2.jpg",
+    "image2": "/products/product10.jpg",
+    "image3": "/products/product11.jpg",
+    "image4": "/products/product12.jpg",
+    "description": "Yemek hazırlarken, temizlikte veya bitkilerinizi sularken rahatlıkla kullanabileceğiniz ergonomik tasarımlı püskürtme şişesi. Kolay tutuş ve homojen püskürtme sağlar.",
+    "stock": 25,
+    "rating": 4.0
+  },
+  {
+    "id": 2,
+    "name": "Paşa Kılıcı",
+    "price": "₺1099,99",
+    "image": "/products/product3.jpg",
+    "image2": "/products/product13.jpg",
+    "image3": "/products/product14.jpg",
+    "image4": "/products/product15.jpg",
+    "description": "El yapımı, geleneksel motiflerle süslenmiş Paşa Kılıcı. Koleksiyoncular ve dekorasyon meraklıları için ideal, yüksek kalite çelik ve detaylı işçilik ile üretilmiştir.",
+    "stock": 5,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Sansevieria",
+    "price": "₺450,00",
+    "image": "/products/product4.jpg",
+    "image2": "/products/product16.jpg",
+    "image3": "/products/product17.jpg",
+    "image4": "/products/product18.jpg",
+    "description": "Az bakım gerektiren ve havayı temizleyen popüler ev bitkisi Sansevieria. Ofisler ve evler için mükemmel, dayanıklı ve dekoratif yapraklarıyla her mekana uyum sağlar.",
+    "stock": 30,
+    "rating": 1.5
+  },
+  {
+    "id": 4,
+    "name": "Aloe Vera",
+    "price": "₺550,00",
+    "image": "/products/product5.jpg",
+    "image2": "/products/product19.jpg",
+    "image3": "/products/product20.jpg",
+    "image4": "/products/product21.jpg",
+    "description": "Sağlıklı ve bakımı kolay Aloe Vera bitkisi. Cilt bakımı ve doğal tedavi amaçlı kullanılabilir. Ev veya ofis ortamında dekoratif ve şık bir görünüme sahiptir.",
+    "stock": 20,
+    "rating": 2.0
+  },
+  {
+    "id": 5,
+    "name": "Kaktüs",
+    "price": "₺350,00",
+    "image": "/products/product6.jpg",
+    "image2": "/products/product22.jpg",
+    "image3": "/products/product23.jpg",
+    "image4": "/products/product24.jpg",
+    "description": "Az su isteyen, dayanıklı ve dekoratif küçük ev kaktüsü. Salon, ofis veya balkon gibi her alana uyum sağlar ve bakımı oldukça kolaydır.",
+    "stock": 40,
+    "rating": 3.5
+  },
+  {
+    "id": 6,
+    "name": "Monstera Deliciosa",
+    "price": "₺650,00",
+    "image": "/products/product7.jpg",
+    "image2": "/products/product25.jpg",
+    "image3": "/products/product26.jpg",
+    "image4": "/products/product27.jpg",
+    "description": "Büyük yapraklı tropikal Monstera Deliciosa, ev ve ofis dekorasyonunda şık bir seçenek. Işığı seven ve yaprakları ile mekana canlılık katan bir bitkidir.",
+    "stock": 15,
+    "rating": 2.5
+  },
+  {
+    "id": 7,
+    "name": "Fiddle Leaf Fig",
+    "price": "₺700,00",
+    "image": "/products/product8.jpg",
+    "image2": "/products/product28.jpg",
+    "image3": "/products/product29.jpg",
+    "image4": "/products/product30.jpg",
+    "description": "Salon veya geniş alanlar için ideal, şık ve dekoratif Fiddle Leaf Fig. Büyük ve parlak yapraklarıyla mekana canlılık ve estetik katar.",
+    "stock": 12,
+    "rating": 4.0
+  },
+  {
+    "id": 8,
+    "name": "Orkide",
+    "price": "₺480,00",
+    "image": "/products/product9.jpg",
+    "image2": "/products/product31.jpg",
+    "image3": "/products/product32.jpg",
+    "image4": "/products/product33.jpg",
+    "description": "Zarif çiçekleri ve bakımı kolay yapısıyla bilinen Orkide, ev ve ofisler için mükemmel bir dekoratif bitkidir. Uzun ömürlü çiçekleri ile her mekana zarafet katar.",
+    "stock": 18,
+    "rating": 5
+  }
+]
